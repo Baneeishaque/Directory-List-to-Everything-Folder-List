@@ -1,0 +1,30 @@
+Srf-Val-PC-C:\Windows\winsxs\
+Srf-Val-PC-C:\ProgramData\Anaconda3\
+C:\Program Files\Java\jdk1.8.0_271\
+Srf-Val-PC-C:\Programs\eclipse-java-2020-06-M1-win32-x86_64\
+C:\Banee_Data\To_Sync\Lab_Banee\Netbeans11_Gradle\*\build\
+E:\Labs\Lab_Banee\CMD\
+Srf-Val-PC-C:\Users\srf\AppData\Local\Temp\
+Srf-Val-PC-D:\Srf_Data\Lab_Srf\*\.idea\caches\
+E:\Labs\Lab_Banee\Kotlin_Console_Gradle\
+E:\Labs\Lab_Banee\Java_Console_Gradle\
+E:\Labs\Lab_Banee\Gradle\
+E:\DK-HP-PA-2000AR\Laboratory\Maven\
+E:\DK-HP-PA-2000AR\Laboratory\React-Native\
+E:\Labs\Lab_Rashid\
+E:\Labs\Lab_Nabeel\
+E:\DK-HP-PA-2000AR\wwwroot\Node_js\
+E:\Labs\Lab_Ziyad\
+E:\Labs\Lab_Sharafu\
+E:\Labs\Lab_Kiran\
+E:\Labs\Lab_Jaseem\
+E:\DK-HP-PA-2000AR\Laboratory\CMD_Node\
+E:\Labs\Lab_Banee\Ignite\
+Srf-Val-PC-C:\Programs\Android_SDK_ADT_Windows\tools\
+Srf-Val-PC-D:\Srf_Data\phone\Android\data\org.videolan.vlc\
+C:\Program Files\VideoLAN\VLC\
+C:\Users\ADMIN\AppData\Roaming\vlc\
+Srf-Val-PC-C:\Program Files\RStudio\
+Srf-Val-PC-C:\Programs\Android_SDK_Windows\build-tools\
+Srf-Val-PC-C:\Programs\Android_SDK_ADT_Windows\build-tools\
+C:\Program Files\JetBrains\
