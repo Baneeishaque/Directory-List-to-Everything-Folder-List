@@ -19,7 +19,11 @@ public class WindowsDirectoryListToEverythingFaolderList {
         try {
 
             List list = fileToListJava8(filename);
-            list.forEach(System.out::println);
+            // list.forEach(System.out::println);
+            String joinedList = String.join(",", list);
+            // System.out.println(joinedList);
+            String replacredString = joinedList.replace("\\", "\\\\");
+            System.out.println(replacredString);
         
         } catch (IOException e) {
         
